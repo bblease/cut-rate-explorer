@@ -16,16 +16,16 @@ This was much more of a design focused effort, and was written in 1 month, as pa
 
 ![Level 1](https://github.com/bblease/cut-rate-explorer/blob/master/screenshots/level1.jpg)
 
-Level 1 - a thirsty explorer needs a drink
+### 💧 Level 1 - a thirsty explorer needs a drink
 
 Textures were painted and edited in GIMP, because it's free 
 
 ![Level 2](https://github.com/bblease/cut-rate-explorer/blob/master/screenshots/level2.jpg) 
 
-Level 2 - your explorer is hungry. Luckily there's a feast of the dead just over there.
+### 🍌 Level 2 - your explorer is hungry. Luckily there's a feast of the dead just over there.
 
 Models were created in Blender 3D. The low poly look was easy to make, but tricky to integrate into the background with fading textures on 3D boxes
 
 ![Level 3](https://github.com/bblease/cut-rate-explorer/blob/master/screenshots/level3.jpg)
 
-Level 3 - you're about to be wracked with massive diarrhea, but that mask looks tempting.
+### 🚽 Level 3 - you're about to be wracked with massive diarrhea, but that mask looks tempting.
