@@ -1,0 +1,834 @@
+Mono path[0] = 'F:/Documents/WJ/level1_Data/Managed'
+Mono path[1] = 'F:/Documents/WJ/level1_Data/Mono'
+Mono config path = 'F:/Documents/WJ/level1_Data/Mono/etc'
+PlayerConnection initialized from F:/Documents/WJ/level1_Data (debug = 0)
+PlayerConnection initialized network socket : 0.0.0.0 55297
+Multi-casting "[IP] 25.7.174.67 [Port] 55297 [Flags] 2 [Guid] 533946862 [EditorId] 644495061 [Version] 1048832 [Id] WindowsPlayer(Ben-PC) [Debug] 0" to [225.0.0.222:54997]...
+PlayerConnection already initialized - listening to [25.7.174.67:55297]
+Initialize engine version: 5.4.2f2 (b7e030c65c9b)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.0]
+    Renderer: NVIDIA GeForce GTX 1060 6GB (ID=0x1c03)
+    Vendor:   NVIDIA
+    VRAM:     3072 MB
+Begin MonoManager ReloadAssembly
+Platform assembly: F:\Documents\WJ\level1_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading F:\Documents\WJ\level1_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: F:\Documents\WJ\level1_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading F:\Documents\WJ\level1_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: F:\Documents\WJ\level1_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading F:\Documents\WJ\level1_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: F:\Documents\WJ\level1_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading F:\Documents\WJ\level1_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+- Completed reload, in  0.158 seconds
+Platform assembly: F:\Documents\WJ\level1_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: F:\Documents\WJ\level1_Data\Managed\System.dll (this message is harmless)
+desktop: 1920x1080 60Hz; virtual: 1920x1080 at 0,0
+<RI> Initializing input.
+<RI> Input initialized.
+<RI> Initialized touch support.
+UnloadTime: 0.866528 ms
+Setting up 1 worker threads for Enlighten.
+  Thread -> id: 4270 -> priority: 1 
+scenery
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+Player:Update() (at F:\Documents\WJ\Assets\scripts\Player.cs:124)
+ 
+(Filename: F:/Documents/WJ/Assets/scripts/Player.cs Line: 124)
+
+row
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+Player:Update() (at F:\Documents\WJ\Assets\scripts\Player.cs:124)
+ 
+(Filename: F:/Documents/WJ/Assets/scripts/Player.cs Line: 124)
+
+row
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+Player:Update() (at F:\Documents\WJ\Assets\scripts\Player.cs:124)
+ 
+(Filename: F:/Documents/WJ/Assets/scripts/Player.cs Line: 124)
+
+row
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+Player:Update() (at F:\Documents\WJ\Assets\scripts\Player.cs:124)
+ 
+(Filename: F:/Documents/WJ/Assets/scripts/Player.cs Line: 124)
+
+row
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+Player:Update() (at F:\Documents\WJ\Assets\scripts\Player.cs:124)
+ 
+(Filename: F:/Documents/WJ/Assets/scripts/Player.cs Line: 124)
+
+row
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+Player:Update() (at F:\Documents\WJ\Assets\scripts\Player.cs:124)
+ 
+(Filename: F:/Documents/WJ/Assets/scripts/Player.cs Line: 124)
+
+row
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+Player:Update() (at F:\Documents\WJ\Assets\scripts\Player.cs:124)
+ 
+(Filename: F:/Documents/WJ/Assets/scripts/Player.cs Line: 124)
+
+row
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+Player:Update() (at F:\Documents\WJ\Assets\scripts\Player.cs:124)
+ 
+(Filename: F:/Documents/WJ/Assets/scripts/Player.cs Line: 124)
+
+row
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+Player:Update() (at F:\Documents\WJ\Assets\scripts\Player.cs:124)
+ 
+(Filename: F:/Documents/WJ/Assets/scripts/Player.cs Line: 124)
+
+row
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+Player:Update() (at F:\Documents\WJ\Assets\scripts\Player.cs:124)
+ 
+(Filename: F:/Documents/WJ/Assets/scripts/Player.cs Line: 124)
+
+row
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+Player:Update() (at F:\Documents\WJ\Assets\scripts\Player.cs:124)
+ 
+(Filename: F:/Documents/WJ/Assets/scripts/Player.cs Line: 124)
+
+row
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+Player:Update() (at F:\Documents\WJ\Assets\scripts\Player.cs:124)
+ 
+(Filename: F:/Documents/WJ/Assets/scripts/Player.cs Line: 124)
+
+row
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+Player:Update() (at F:\Documents\WJ\Assets\scripts\Player.cs:124)
+ 
+(Filename: F:/Documents/WJ/Assets/scripts/Player.cs Line: 124)
+
+row
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+Player:Update() (at F:\Documents\WJ\Assets\scripts\Player.cs:124)
+ 
+(Filename: F:/Documents/WJ/Assets/scripts/Player.cs Line: 124)
+
+row
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+Player:Update() (at F:\Documents\WJ\Assets\scripts\Player.cs:124)
+ 
+(Filename: F:/Documents/WJ/Assets/scripts/Player.cs Line: 124)
+
+row
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+Player:Update() (at F:\Documents\WJ\Assets\scripts\Player.cs:124)
+ 
+(Filename: F:/Documents/WJ/Assets/scripts/Player.cs Line: 124)
+
+row
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+Player:Update() (at F:\Documents\WJ\Assets\scripts\Player.cs:124)
+ 
+(Filename: F:/Documents/WJ/Assets/scripts/Player.cs Line: 124)
+
+row
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+Player:Update() (at F:\Documents\WJ\Assets\scripts\Player.cs:124)
+ 
+(Filename: F:/Documents/WJ/Assets/scripts/Player.cs Line: 124)
+
+row
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+Player:Update() (at F:\Documents\WJ\Assets\scripts\Player.cs:124)
+ 
+(Filename: F:/Documents/WJ/Assets/scripts/Player.cs Line: 124)
+
+row
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+Player:Update() (at F:\Documents\WJ\Assets\scripts\Player.cs:124)
+ 
+(Filename: F:/Documents/WJ/Assets/scripts/Player.cs Line: 124)
+
+row
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+Player:Update() (at F:\Documents\WJ\Assets\scripts\Player.cs:124)
+ 
+(Filename: F:/Documents/WJ/Assets/scripts/Player.cs Line: 124)
+
+row
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+Player:Update() (at F:\Documents\WJ\Assets\scripts\Player.cs:124)
+ 
+(Filename: F:/Documents/WJ/Assets/scripts/Player.cs Line: 124)
+
+row
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+Player:Update() (at F:\Documents\WJ\Assets\scripts\Player.cs:124)
+ 
+(Filename: F:/Documents/WJ/Assets/scripts/Player.cs Line: 124)
+
+row
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+Player:Update() (at F:\Documents\WJ\Assets\scripts\Player.cs:124)
+ 
+(Filename: F:/Documents/WJ/Assets/scripts/Player.cs Line: 124)
+
+row
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+Player:Update() (at F:\Documents\WJ\Assets\scripts\Player.cs:124)
+ 
+(Filename: F:/Documents/WJ/Assets/scripts/Player.cs Line: 124)
+
+row
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+Player:Update() (at F:\Documents\WJ\Assets\scripts\Player.cs:124)
+ 
+(Filename: F:/Documents/WJ/Assets/scripts/Player.cs Line: 124)
+
+row
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+Player:Update() (at F:\Documents\WJ\Assets\scripts\Player.cs:124)
+ 
+(Filename: F:/Documents/WJ/Assets/scripts/Player.cs Line: 124)
+
+row
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+Player:Update() (at F:\Documents\WJ\Assets\scripts\Player.cs:124)
+ 
+(Filename: F:/Documents/WJ/Assets/scripts/Player.cs Line: 124)
+
+row
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+Player:Update() (at F:\Documents\WJ\Assets\scripts\Player.cs:124)
+ 
+(Filename: F:/Documents/WJ/Assets/scripts/Player.cs Line: 124)
+
+row
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+Player:Update() (at F:\Documents\WJ\Assets\scripts\Player.cs:124)
+ 
+(Filename: F:/Documents/WJ/Assets/scripts/Player.cs Line: 124)
+
+row
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+Player:Update() (at F:\Documents\WJ\Assets\scripts\Player.cs:124)
+ 
+(Filename: F:/Documents/WJ/Assets/scripts/Player.cs Line: 124)
+
+row
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+Player:Update() (at F:\Documents\WJ\Assets\scripts\Player.cs:124)
+ 
+(Filename: F:/Documents/WJ/Assets/scripts/Player.cs Line: 124)
+
+row
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+Player:Update() (at F:\Documents\WJ\Assets\scripts\Player.cs:124)
+ 
+(Filename: F:/Documents/WJ/Assets/scripts/Player.cs Line: 124)
+
+row
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+Player:Update() (at F:\Documents\WJ\Assets\scripts\Player.cs:124)
+ 
+(Filename: F:/Documents/WJ/Assets/scripts/Player.cs Line: 124)
+
+row
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+Player:Update() (at F:\Documents\WJ\Assets\scripts\Player.cs:124)
+ 
+(Filename: F:/Documents/WJ/Assets/scripts/Player.cs Line: 124)
+
+row
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+Player:Update() (at F:\Documents\WJ\Assets\scripts\Player.cs:124)
+ 
+(Filename: F:/Documents/WJ/Assets/scripts/Player.cs Line: 124)
+
+row
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+Player:Update() (at F:\Documents\WJ\Assets\scripts\Player.cs:124)
+ 
+(Filename: F:/Documents/WJ/Assets/scripts/Player.cs Line: 124)
+
+row
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+Player:Update() (at F:\Documents\WJ\Assets\scripts\Player.cs:124)
+ 
+(Filename: F:/Documents/WJ/Assets/scripts/Player.cs Line: 124)
+
+row
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+Player:Update() (at F:\Documents\WJ\Assets\scripts\Player.cs:124)
+ 
+(Filename: F:/Documents/WJ/Assets/scripts/Player.cs Line: 124)
+
+row
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+Player:Update() (at F:\Documents\WJ\Assets\scripts\Player.cs:124)
+ 
+(Filename: F:/Documents/WJ/Assets/scripts/Player.cs Line: 124)
+
+row
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+Player:Update() (at F:\Documents\WJ\Assets\scripts\Player.cs:124)
+ 
+(Filename: F:/Documents/WJ/Assets/scripts/Player.cs Line: 124)
+
+row
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+Player:Update() (at F:\Documents\WJ\Assets\scripts\Player.cs:124)
+ 
+(Filename: F:/Documents/WJ/Assets/scripts/Player.cs Line: 124)
+
+row
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+Player:Update() (at F:\Documents\WJ\Assets\scripts\Player.cs:124)
+ 
+(Filename: F:/Documents/WJ/Assets/scripts/Player.cs Line: 124)
+
+row
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+Player:Update() (at F:\Documents\WJ\Assets\scripts\Player.cs:124)
+ 
+(Filename: F:/Documents/WJ/Assets/scripts/Player.cs Line: 124)
+
+row
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+Player:Update() (at F:\Documents\WJ\Assets\scripts\Player.cs:124)
+ 
+(Filename: F:/Documents/WJ/Assets/scripts/Player.cs Line: 124)
+
+row
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+Player:Update() (at F:\Documents\WJ\Assets\scripts\Player.cs:124)
+ 
+(Filename: F:/Documents/WJ/Assets/scripts/Player.cs Line: 124)
+
+row
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+Player:Update() (at F:\Documents\WJ\Assets\scripts\Player.cs:124)
+ 
+(Filename: F:/Documents/WJ/Assets/scripts/Player.cs Line: 124)
+
+row
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+Player:Update() (at F:\Documents\WJ\Assets\scripts\Player.cs:124)
+ 
+(Filename: F:/Documents/WJ/Assets/scripts/Player.cs Line: 124)
+
+row
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+Player:Update() (at F:\Documents\WJ\Assets\scripts\Player.cs:124)
+ 
+(Filename: F:/Documents/WJ/Assets/scripts/Player.cs Line: 124)
+
+row
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+Player:Update() (at F:\Documents\WJ\Assets\scripts\Player.cs:124)
+ 
+(Filename: F:/Documents/WJ/Assets/scripts/Player.cs Line: 124)
+
+row
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+Player:Update() (at F:\Documents\WJ\Assets\scripts\Player.cs:124)
+ 
+(Filename: F:/Documents/WJ/Assets/scripts/Player.cs Line: 124)
+
+row
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+Player:Update() (at F:\Documents\WJ\Assets\scripts\Player.cs:124)
+ 
+(Filename: F:/Documents/WJ/Assets/scripts/Player.cs Line: 124)
+
+row
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+Player:Update() (at F:\Documents\WJ\Assets\scripts\Player.cs:124)
+ 
+(Filename: F:/Documents/WJ/Assets/scripts/Player.cs Line: 124)
+
+row
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+Player:Update() (at F:\Documents\WJ\Assets\scripts\Player.cs:124)
+ 
+(Filename: F:/Documents/WJ/Assets/scripts/Player.cs Line: 124)
+
+row
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+Player:Update() (at F:\Documents\WJ\Assets\scripts\Player.cs:124)
+ 
+(Filename: F:/Documents/WJ/Assets/scripts/Player.cs Line: 124)
+
+row
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+Player:Update() (at F:\Documents\WJ\Assets\scripts\Player.cs:124)
+ 
+(Filename: F:/Documents/WJ/Assets/scripts/Player.cs Line: 124)
+
+row
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+Player:Update() (at F:\Documents\WJ\Assets\scripts\Player.cs:124)
+ 
+(Filename: F:/Documents/WJ/Assets/scripts/Player.cs Line: 124)
+
+row
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+Player:Update() (at F:\Documents\WJ\Assets\scripts\Player.cs:124)
+ 
+(Filename: F:/Documents/WJ/Assets/scripts/Player.cs Line: 124)
+
+row
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+Player:Update() (at F:\Documents\WJ\Assets\scripts\Player.cs:124)
+ 
+(Filename: F:/Documents/WJ/Assets/scripts/Player.cs Line: 124)
+
+row
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+Player:Update() (at F:\Documents\WJ\Assets\scripts\Player.cs:124)
+ 
+(Filename: F:/Documents/WJ/Assets/scripts/Player.cs Line: 124)
+
+row
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+Player:Update() (at F:\Documents\WJ\Assets\scripts\Player.cs:124)
+ 
+(Filename: F:/Documents/WJ/Assets/scripts/Player.cs Line: 124)
+
+row
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+Player:Update() (at F:\Documents\WJ\Assets\scripts\Player.cs:124)
+ 
+(Filename: F:/Documents/WJ/Assets/scripts/Player.cs Line: 124)
+
+row
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+Player:Update() (at F:\Documents\WJ\Assets\scripts\Player.cs:124)
+ 
+(Filename: F:/Documents/WJ/Assets/scripts/Player.cs Line: 124)
+
+row
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+Player:Update() (at F:\Documents\WJ\Assets\scripts\Player.cs:124)
+ 
+(Filename: F:/Documents/WJ/Assets/scripts/Player.cs Line: 124)
+
+row
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+Player:Update() (at F:\Documents\WJ\Assets\scripts\Player.cs:124)
+ 
+(Filename: F:/Documents/WJ/Assets/scripts/Player.cs Line: 124)
+
+row
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+Player:Update() (at F:\Documents\WJ\Assets\scripts\Player.cs:124)
+ 
+(Filename: F:/Documents/WJ/Assets/scripts/Player.cs Line: 124)
+
+row
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+Player:Update() (at F:\Documents\WJ\Assets\scripts\Player.cs:124)
+ 
+(Filename: F:/Documents/WJ/Assets/scripts/Player.cs Line: 124)
+
+row
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+Player:Update() (at F:\Documents\WJ\Assets\scripts\Player.cs:124)
+ 
+(Filename: F:/Documents/WJ/Assets/scripts/Player.cs Line: 124)
+
+row
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+Player:Update() (at F:\Documents\WJ\Assets\scripts\Player.cs:124)
+ 
+(Filename: F:/Documents/WJ/Assets/scripts/Player.cs Line: 124)
+
+row
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+Player:Update() (at F:\Documents\WJ\Assets\scripts\Player.cs:124)
+ 
+(Filename: F:/Documents/WJ/Assets/scripts/Player.cs Line: 124)
+
+row
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+Player:Update() (at F:\Documents\WJ\Assets\scripts\Player.cs:124)
+ 
+(Filename: F:/Documents/WJ/Assets/scripts/Player.cs Line: 124)
+
+row
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+Player:Update() (at F:\Documents\WJ\Assets\scripts\Player.cs:124)
+ 
+(Filename: F:/Documents/WJ/Assets/scripts/Player.cs Line: 124)
+
+row
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+Player:Update() (at F:\Documents\WJ\Assets\scripts\Player.cs:124)
+ 
+(Filename: F:/Documents/WJ/Assets/scripts/Player.cs Line: 124)
+
+row
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+Player:Update() (at F:\Documents\WJ\Assets\scripts\Player.cs:124)
+ 
+(Filename: F:/Documents/WJ/Assets/scripts/Player.cs Line: 124)
+
+row
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+Player:Update() (at F:\Documents\WJ\Assets\scripts\Player.cs:124)
+ 
+(Filename: F:/Documents/WJ/Assets/scripts/Player.cs Line: 124)
+
+row
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+Player:Update() (at F:\Documents\WJ\Assets\scripts\Player.cs:124)
+ 
+(Filename: F:/Documents/WJ/Assets/scripts/Player.cs Line: 124)
+
+row
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+Player:Update() (at F:\Documents\WJ\Assets\scripts\Player.cs:124)
+ 
+(Filename: F:/Documents/WJ/Assets/scripts/Player.cs Line: 124)
+
+row
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+Player:Update() (at F:\Documents\WJ\Assets\scripts\Player.cs:124)
+ 
+(Filename: F:/Documents/WJ/Assets/scripts/Player.cs Line: 124)
+
+row
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+Player:Update() (at F:\Documents\WJ\Assets\scripts\Player.cs:124)
+ 
+(Filename: F:/Documents/WJ/Assets/scripts/Player.cs Line: 124)
+
+row
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+Player:Update() (at F:\Documents\WJ\Assets\scripts\Player.cs:124)
+ 
+(Filename: F:/Documents/WJ/Assets/scripts/Player.cs Line: 124)
+
+row
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+Player:Update() (at F:\Documents\WJ\Assets\scripts\Player.cs:124)
+ 
+(Filename: F:/Documents/WJ/Assets/scripts/Player.cs Line: 124)
+
+row
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+Player:Update() (at F:\Documents\WJ\Assets\scripts\Player.cs:124)
+ 
+(Filename: F:/Documents/WJ/Assets/scripts/Player.cs Line: 124)
+
+row
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+Player:Update() (at F:\Documents\WJ\Assets\scripts\Player.cs:124)
+ 
+(Filename: F:/Documents/WJ/Assets/scripts/Player.cs Line: 124)
+
+row
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+Player:Update() (at F:\Documents\WJ\Assets\scripts\Player.cs:124)
+ 
+(Filename: F:/Documents/WJ/Assets/scripts/Player.cs Line: 124)
+
+row
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+Player:Update() (at F:\Documents\WJ\Assets\scripts\Player.cs:124)
+ 
+(Filename: F:/Documents/WJ/Assets/scripts/Player.cs Line: 124)
+
+row
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+Player:Update() (at F:\Documents\WJ\Assets\scripts\Player.cs:124)
+ 
+(Filename: F:/Documents/WJ/Assets/scripts/Player.cs Line: 124)
+
+row
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+Player:Update() (at F:\Documents\WJ\Assets\scripts\Player.cs:124)
+ 
+(Filename: F:/Documents/WJ/Assets/scripts/Player.cs Line: 124)
+
+scenery
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+Player:Update() (at F:\Documents\WJ\Assets\scripts\Player.cs:124)
+ 
+(Filename: F:/Documents/WJ/Assets/scripts/Player.cs Line: 124)
+
+row
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+Player:Update() (at F:\Documents\WJ\Assets\scripts\Player.cs:124)
+ 
+(Filename: F:/Documents/WJ/Assets/scripts/Player.cs Line: 124)
+

@@ -1,0 +1,19 @@
+fileFormatVersion: 2
+guid: 739fee4bb795b7944adac144e0cef9dd
+timeCreated: 1483859447
+licenseType: Free
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - step: {fileID: 1000010568111058, guid: e5f64f02bdb43d04eacefd82ebaea5b6, type: 2}
+  - emStep: {instanceID: 0}
+  - rubStep: {instanceID: 0}
+  - player: {fileID: 1000013913941222, guid: be0707411c5c02444b8b31c02b745060, type: 2}
+  - faded: {instanceID: 0}
+  - norm: {instanceID: 0}
+  - green: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
